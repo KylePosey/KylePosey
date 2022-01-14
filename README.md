@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Kyle Posey</h1>
-<h3 align="center">A passionate developer working with a broad set of interests and skills</h3>
+<h3 align="center">A passionate developer focused mainly on, Unity, Low-Level HW/SW, and C#</h3>
 
 - 🔭 I’m currently working on [SimpleCPU - A basic software CPU implementation](https://github.com/KylePosey/SimpleCPU)
 
