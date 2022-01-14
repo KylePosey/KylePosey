@@ -1,6 +1,7 @@
 <h1 align="center">Hello, I'm Kyle Posey</h1>
 <h3 align="center">A passionate developer focused mainly on, Unity, Low-Level HW/SW, and C#</h3>
 
+<p align="left">
 - I’m currently working on [SimpleCPU - A basic software CPU implementation](https://github.com/KylePosey/SimpleCPU)
 
 - I’m currently learning **how compilers, assemblers, and low-level code optimization work**
@@ -9,8 +10,6 @@
 
 - Contact **flogx5@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
