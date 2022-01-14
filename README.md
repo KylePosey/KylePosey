@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Kyle Posey</h1>
 <h3 align="center">A passionate developer focused mainly on, Unity, Low-Level HW/SW, and C#</h3>
 
-- 🔭 I’m currently working on [SimpleCPU - A basic software CPU implementation](https://github.com/KylePosey/SimpleCPU)
+- I’m currently working on [SimpleCPU - A basic software CPU implementation](https://github.com/KylePosey/SimpleCPU)
 
-- 🌱 I’m currently learning **How compilers, assemblers, and low-level code optimization work**
+- I’m currently learning **how compilers, assemblers, and low-level code optimization work**
 
 - LinkedIn [https://www.linkedin.com/in/kyle-posey-23b10b220/](https://www.linkedin.com/in/kyle-posey-23b10b220/)
 
