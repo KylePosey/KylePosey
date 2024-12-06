@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Kyle Posey</h1>
 <h3 align="center">A passionate developer focused mainly on, Unity, Low-Level HW/SW, and C#</h3>
 
-- I’m currently working on [SimpleCPU - A basic software CPU implementation](https://github.com/KylePosey/SimpleCPU)
+- I’m currently working on [CobblemonSpawns - A simple Cobblemon add-on to allow map maker and server managers to provide a more classic Cobblemon spawning experience]([https://github.com/KylePosey/SimpleCPU](https://github.com/KylePosey/CobblemonSpawns))
 
-- I’m currently learning **how compilers, assemblers, and low-level code optimization work**
+- I’m currently learning about **Game Console Emulating, Minecraft modding, Marketing**
 
 - LinkedIn [https://www.linkedin.com/in/kyle-posey-23b10b220/](https://www.linkedin.com/in/kyle-posey-23b10b220/)
 
